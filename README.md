@@ -1,3 +1,3 @@
-# rest-api-spring
+# rest-ws-spring
 
-Proyecto de implementación de un REST API con Spring 4.
+Proyecto de implementación de un REST WS con Spring 4.
